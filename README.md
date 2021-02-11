@@ -2,7 +2,9 @@
 A visualization experiment covering the results of a survey conducted on 'Violence Against Women &amp; Girls - perceptions in African, Asian and South American countries'
 - Data obtained from Operation Fistula and Data World. Read more at: (https://data.world/makeovermonday/2020w10/workspace/file?filename=20200306+Visualize+Gender+Equality+Data+Set+%231.pdf)
 
-see below for findings and conclusions:
+see below images for findings and conclusions:
+
+
 
 ## Observations
 - People in rural areas are more likely to justify violence against women
