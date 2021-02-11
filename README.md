@@ -4,7 +4,9 @@ A visualization experiment covering the results of a survey conducted on 'Violen
 
 see below images for findings and conclusions:
 
+![alt text](https://github.com/Cassandra-Simmons/JustificationForViolenceAgainstWomen/blob/main/results.png)
 
+![alt text](https://github.com/Cassandra-Simmons/JustificationForViolenceAgainstWomen/blob/main/subplots.JPG)
 
 ## Observations
 - People in rural areas are more likely to justify violence against women
